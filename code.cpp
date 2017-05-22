@@ -49,7 +49,7 @@ void D()
 	SetLedColor(1, 16, 255, 255, 255);
 	SetLedColor(5, 16, 255, 255, 255);
 
-	for (int i = 2; i < 5; i = i + 2)
+	for (int i = 2; i < 5; i++)
 	{
 		SetLedColor(i, 17, 255, 255, 255);
 	}
